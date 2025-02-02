@@ -14,7 +14,7 @@ Dm - @thedeathmatix or @ak64775. they ARE LEGIT AND I HAVE TESTED)
   - You won’t be able to determine the amount to flash.
   - They send lower than the minimum at times.
   - **Recommendation:** Get the software instead as it’s better.
-https://t.me/BitcoinFlashingSoftwareBot
+[Bitcoin Software Bot](https://t.me/BitcoinSoftwareBot)
 ## Log Masters
 - **Use:** I’ve not used them before, but according to their Trustpilot page, they are real.
 - **Rating:** ⭐️ 80/100
